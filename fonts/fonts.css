@@ -1,0 +1,25 @@
+@font-face {
+    font-display: swap;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/plus-jakarta-sans-v11-latin-regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/plus-jakarta-sans-v11-latin-700.woff2') format('woff2');
+    /* Chrome 36+, Opera 23+, Firefox 39+, Safari 12+, iOS 10+ */
+}
+
+/* plus-jakarta-sans-800 - latin */
+@font-face {
+    font-display: swap;
+    font-family: 'Plus Jakarta Sans';
+    font-style: normal;
+    font-weight: 800;
+    src: url('../fonts/plus-jakarta-sans-v11-latin-800.woff2') format('woff2');
+}
